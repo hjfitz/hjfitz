@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 🧙‍♀️
 
-<!--
-**hjfitz/hjfitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm Harry. I sling `<div />`s
 
-Here are some ideas to get you started:
+##### RIGHT NOW
+* 👨‍💻 Rewriting my [website](https://hjf.io) in Gatsby
+* 🎶 Tinkering with the [Spotify API](https://spotify.hjf.io/)
+* ⚡️ Playing with Netlify and Netlify Functions
+* 🔐 Implementing AppSec at work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### ABOUT
+* 👮‍♂️ I'm a SecOps engineer, but I used to be a Full Stack Developer
+* 🧙‍♂️ I want to be a Full Stack Developer again
+* 🧱 I code with `.ts`, `.tsx`, `.sass`, `.go`
+* ⚛️ I write a lot of React (sometimes Preact!)
+* 🌍 I host with `azure`, `netlify`
+* 🐦 Find me [@__hjf](https://twitter.com/__hjf)
+* 👨‍💼 Learn [about me](https://www.linkedin.com/in/hjfitz/)
