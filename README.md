@@ -1,5 +1,3 @@
-![a cat](./img/smudge.png)
-
 <img src="https://github.com/hjfitz/hjfitz/raw/master/img/smudge.png" width="2000"></img>
 
 ### Hi there 🧙‍♀️
