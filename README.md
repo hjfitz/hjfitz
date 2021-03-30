@@ -1,3 +1,5 @@
+![a cat](./img/smudge.png)
+
 ### Hi there 🧙‍♀️
 
 #### I'm Harry. I sling `<div />`s
