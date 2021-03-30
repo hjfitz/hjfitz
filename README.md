@@ -1,4 +1,4 @@
-![a cat](./img/smudge.png)
+![a cat](./img/smudge.png | width=2000)
 
 ### Hi there 🧙‍♀️
 
