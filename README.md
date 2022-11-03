@@ -4,6 +4,16 @@
 
 #### I'm Harry. I sling `<div />`s
 
+##### ABOUT
+
+- 🧙🏻‍♂️ I'm keyboard cowboworking on virtual spaghetti
+- 🤠 I've worn many hats: Web Leader, Security Dude, Chef
+- Checkout my latest project: `http://localhost:3000`
+- 🧱 I code with `.ts`, `.scss`, and `.rs`
+- ⚛️ I write a lot of React (sometimes Preact!)
+- 🌍 I host with `aws`, `azure`, `netlify`
+- 👨‍💼 Learn [about me](https://www.linkedin.com/in/hjfitz/)
+
 ##### RIGHT NOW
 
 - Working on distributed systems with the amazing people at RS Group
@@ -12,14 +22,7 @@
 - 🎶 Tinkering with the [Spotify API](https://spotify.hjf.io/)
 - ⚡️ Playing with Netlify and Netlify Functions
 
-##### ABOUT
 
-- 🧙🏻‍♂️ I'm keyboard cowboy that builds virtual spaghetti
-- 🤠 I've worn many hats: Chef, Engineering Lead, SecOps engineer
-- 🧱 I code with `.ts`, `.scss`, and `.rs`
-- ⚛️ I write a lot of React (sometimes Preact!)
-- 🌍 I host with `aws`, `azure`, `netlify`
-- 👨‍💼 Learn [about me](https://www.linkedin.com/in/hjfitz/)
 
 ##### STATS
 
