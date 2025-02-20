@@ -1,22 +1,21 @@
-<!--<img src="https://github.com/hjfitz/hjfitz/raw/master/img/smudge.png" width="2000"></img>-->
+### Hi there 
 
-### Hi there 🧙‍♀️
+#### I'm Harry. I code, and I cook
 
-#### I'm Harry. I sling `<div />`s
+##### **ABOUT ME**
 
-##### ABOUT
+- 🧙‍♀️ I've worn many hats: Tech Lead, SRE, Software Engineer and Cloud Engineer.
+- 🧱 You might see me writing `.ts`, `.tsx`, `.tf`, `.cs`, `.sh` and `.go`.
+- ⚛️ My backend is AWS/GCP, Kubernetes, Terraform and Nest.js.
+- 👨‍💼 Learn about [professional me](https://www.linkedin.com/in/hjfitz/).
 
-- 🤠 I've worn many hats: Tech Lead, SRE, Software Engineer and Cloud Engineer
-- 🧱 I code with `.ts`, `.tsx`, `.cs`, and `.sh`
-- ⚛️ On the backend, I love AWS, Terraform and Nest.js
-- 🌍 I host with `aws`, `azure` and `netlify`
-- 👨‍💼 Learn [about me](https://www.linkedin.com/in/hjfitz/)
 
-##### RIGHT NOW
+##### **RIGHT NOW**  
 
-- Working on distributed systems with the amazing people at RS Group
-- 👨‍💻 Building cool [stuff](https://groups.hjf.io/) with WebRTC
-- 🥋 Building a web presence for my [Karate Club](https://hursleykarate.club)
-- Blogging on my [web sight](https://hjf.io) 
-- 🎶 Tinkering with the [Spotify API](https://spotify.hjf.io/)
+- ✍️ **Blogging on [hjf.io](https://hjf.io) about software, leadership, and code reviews**  
+- 👨‍💻 **Engineering distributed systems at GFS**
+- 🥋 **Creating a web presence for my [Karate Club](https://hursleykarate.club)**  
+- 🎥 **Building [tiny software](https://github.com/hjfitz/nanorouter)**
+- 🎶 **Hacking about with [Generative AI](https://github.com/hjfitz/gen)**
 
+🛠 Always hacking on **infrastructure, APIs, and better ways to work.**  
